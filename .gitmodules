@@ -304,6 +304,11 @@
 	url = https://github.com/Displayr/d3vennR
 	shallow = true
 	registered = false
+[submodule "networkD3"]
+	path = networkD3
+	url = https://github.com/Displayr/networkD3
+	shallow = true
+	registered = false
 [submodule "parcoords"]
 	path = parcoords
 	url = https://github.com/Displayr/parcoords
