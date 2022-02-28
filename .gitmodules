@@ -283,3 +283,56 @@
 	url = https://github.com/Displayr/verbs
 	shallow = true
 	registered = true
+[submodule "DT"]
+	path = DT
+	url = https://github.com/rstudio/DT
+	shallow = true
+	branch = bf60e431578638ba56e227090af4e1aa5f9add55
+	registered = false
+[submodule "RGoogleAnalytics"]
+	path = RGoogleAnalytics
+	url = https://github.com/Tatvic/RGoogleAnalytics
+	shallow = true
+	registered = false
+[submodule "chromote"]
+	path = chromote
+	url = https://github.com/rstudio/chromote
+	shallow = true
+	registered = false
+[submodule "d3vennR"]
+	path = d3vennR
+	url = https://github.com/Displayr/d3vennR
+	shallow = true
+	registered = false
+[submodule "parcoords"]
+	path = parcoords
+	url = https://github.com/Displayr/parcoords
+	shallow = true
+	registered = false
+[submodule "rgdal"]
+	path = rgdal
+	url = https://github.com/cran/rgdal
+	shallow = true
+	branch = 1.5-12
+	registered = false
+[submodule "streamgraph"]
+	path = streamgraph
+	url = https://github.com/hrbrmstr/streamgraph
+	shallow = true
+	registered = false
+[submodule "survey"]
+	path = survey
+	url = https://github.com/cran/survey
+	shallow = true
+	branch = 4.0
+	registered = false
+[submodule "thematic"]
+	path = thematic
+	url = https://github.com/rstudio/thematic
+	shallow = true
+	registered = false
+[submodule "visualTest"]
+	path = visualTest
+	url = https://github.com/MangoTheCat/visualTest
+	shallow = true
+	registered = false
