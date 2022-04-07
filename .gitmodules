@@ -315,6 +315,11 @@
 	shallow = true
 	branch = 1.5-12
 	registered = false
+[submodule "rhtmlMoonPlot"]
+	path = rhtmlMoonPlot
+	url = https://github.com/Displayr/rhtmlMoonPlot
+	shallow = true
+	registered = false
 [submodule "streamgraph"]
 	path = streamgraph
 	url = https://github.com/hrbrmstr/streamgraph
