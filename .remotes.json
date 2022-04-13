@@ -2,6 +2,13 @@
   {
     "package": "DT",
     "url": "https://github.com/rstudio/DT",
+    "via": ["flipAPI", "flipTransformations", "flipFormat"],
+    "branch": "bf60e431578638ba56e227090af4e1aa5f9add55",
+    "from": "flipAPI"
+  },
+  {
+    "package": "DT",
+    "url": "https://github.com/rstudio/DT",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat"],
     "branch": "bf60e431578638ba56e227090af4e1aa5f9add55",
     "from": "flipAnalysisOfVariance"
@@ -474,6 +481,12 @@
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat"],
     "branch": "bf60e431578638ba56e227090af4e1aa5f9add55",
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "RGoogleAnalytics",
+    "url": "https://github.com/Tatvic/RGoogleAnalytics",
+    "via": ["flipAPI"],
+    "from": "flipAPI"
   },
   {
     "package": "RGoogleAnalytics",
@@ -1318,6 +1331,12 @@
   {
     "package": "chromote",
     "url": "https://github.com/rstudio/chromote",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests"],
     "from": "flipAnalysisOfVariance"
   },
@@ -1722,6 +1741,24 @@
     "url": "https://github.com/rstudio/chromote",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "d3vennR",
+    "url": "https://github.com/Displayr/d3vennR",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "d3vennR",
+    "url": "https://github.com/Displayr/d3vennR",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "d3vennR",
+    "url": "https://github.com/Displayr/d3vennR",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
   },
   {
     "package": "d3vennR",
@@ -2388,6 +2425,24 @@
     "url": "https://github.com/Displayr/d3vennR",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "dygraphs",
+    "url": "https://github.com/Displayr/dygraphs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "dygraphs",
+    "url": "https://github.com/Displayr/dygraphs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "dygraphs",
+    "url": "https://github.com/Displayr/dygraphs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
   },
   {
     "package": "dygraphs",
@@ -3898,6 +3953,12 @@
   {
     "package": "flipChart",
     "url": "https://github.com/Displayr/flipChart",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipChart",
+    "url": "https://github.com/Displayr/flipChart",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests"],
     "from": "flipAnalysisOfVariance"
   },
@@ -4302,6 +4363,30 @@
     "url": "https://github.com/Displayr/flipChart",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "flipChartBasics",
+    "url": "https://github.com/Displayr/flipChartBasics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipChartBasics",
+    "url": "https://github.com/Displayr/flipChartBasics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipChartBasics",
+    "url": "https://github.com/Displayr/flipChartBasics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipChartBasics",
+    "url": "https://github.com/Displayr/flipChartBasics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
   },
   {
     "package": "flipChartBasics",
@@ -5344,6 +5429,12 @@
   {
     "package": "flipChartTests",
     "url": "https://github.com/Displayr/flipChartTests",
+    "via": ["flipAPI", "flipTransformations", "flipFormat"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipChartTests",
+    "url": "https://github.com/Displayr/flipChartTests",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat"],
     "from": "flipAnalysisOfVariance"
   },
@@ -5748,6 +5839,36 @@
     "url": "https://github.com/Displayr/flipChartTests",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "flipData",
+    "url": "https://github.com/Displayr/flipData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipData",
+    "url": "https://github.com/Displayr/flipData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipData",
+    "url": "https://github.com/Displayr/flipData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipData",
+    "url": "https://github.com/Displayr/flipData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipData",
+    "url": "https://github.com/Displayr/flipData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
   },
   {
     "package": "flipData",
@@ -6588,6 +6709,192 @@
     "url": "https://github.com/Displayr/flipData",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipChartBasics", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipChartBasics", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipChartBasics", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipChartBasics", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipExampleData",
+    "url": "https://github.com/Displayr/flipExampleData",
+    "via": ["flipAPI", "flipTransformations", "flipFormat"],
+    "from": "flipAPI"
   },
   {
     "package": "flipExampleData",
@@ -13552,6 +13859,12 @@
   {
     "package": "flipFormat",
     "url": "https://github.com/Displayr/flipFormat",
+    "via": ["flipAPI", "flipTransformations"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipFormat",
+    "url": "https://github.com/Displayr/flipFormat",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations"],
     "from": "flipAnalysisOfVariance"
   },
@@ -13956,6 +14269,36 @@
     "url": "https://github.com/Displayr/flipFormat",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "flipImputation",
+    "url": "https://github.com/Displayr/flipImputation",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipImputation",
+    "url": "https://github.com/Displayr/flipImputation",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipImputation",
+    "url": "https://github.com/Displayr/flipImputation",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipImputation",
+    "url": "https://github.com/Displayr/flipImputation",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipImputation",
+    "url": "https://github.com/Displayr/flipImputation",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
   },
   {
     "package": "flipImputation",
@@ -14800,6 +15143,12 @@
   {
     "package": "flipRegression",
     "url": "https://github.com/Displayr/flipRegression",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipRegression",
+    "url": "https://github.com/Displayr/flipRegression",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
     "from": "flipAnalysisOfVariance"
   },
@@ -14934,6 +15283,24 @@
     "url": "https://github.com/Displayr/flipRegression",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "flipStandardCharts",
+    "url": "https://github.com/Displayr/flipStandardCharts",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStandardCharts",
+    "url": "https://github.com/Displayr/flipStandardCharts",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStandardCharts",
+    "url": "https://github.com/Displayr/flipStandardCharts",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
+    "from": "flipAPI"
   },
   {
     "package": "flipStandardCharts",
@@ -15600,6 +15967,132 @@
     "url": "https://github.com/Displayr/flipStandardCharts",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipStatistics",
+    "url": "https://github.com/Displayr/flipStatistics",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "verbs"],
+    "from": "flipAPI"
   },
   {
     "package": "flipStatistics",
@@ -17068,6 +17561,36 @@
   {
     "package": "flipTables",
     "url": "https://github.com/Displayr/flipTables",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTables",
+    "url": "https://github.com/Displayr/flipTables",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTables",
+    "url": "https://github.com/Displayr/flipTables",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTables",
+    "url": "https://github.com/Displayr/flipTables",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTables",
+    "url": "https://github.com/Displayr/flipTables",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTables",
+    "url": "https://github.com/Displayr/flipTables",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
   },
@@ -18012,6 +18535,222 @@
     "url": "https://github.com/Displayr/flipTables",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStatistics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStatistics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["flipAPI", "flipTransformations"],
+    "from": "flipAPI"
   },
   {
     "package": "flipTime",
@@ -26140,6 +26879,12 @@
   {
     "package": "flipTransformations",
     "url": "https://github.com/Displayr/flipTransformations",
+    "via": ["flipAPI"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipTransformations",
+    "url": "https://github.com/Displayr/flipTransformations",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI"],
     "from": "flipAnalysisOfVariance"
   },
@@ -29718,6 +30463,288 @@
     "url": "https://github.com/Displayr/flipTransformations",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipChartBasics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData", "flipImputation"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipChartBasics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData", "flipImputation"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData", "flipImputation"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipChartBasics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData", "flipImputation"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStatistics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStatistics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipChartBasics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipChartBasics", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData", "flipImputation"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipTables", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "verbs"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations", "flipFormat"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "flipU",
+    "url": "https://github.com/Displayr/flipU",
+    "via": ["flipAPI", "flipTransformations"],
+    "from": "flipAPI"
   },
   {
     "package": "flipU",
@@ -40276,6 +41303,12 @@
   {
     "package": "formattable",
     "url": "https://github.com/Displayr/formattable",
+    "via": ["flipAPI", "flipTransformations", "flipFormat"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "formattable",
+    "url": "https://github.com/Displayr/formattable",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat"],
     "from": "flipAnalysisOfVariance"
   },
@@ -40680,6 +41713,30 @@
     "url": "https://github.com/Displayr/formattable",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "htmlwidgets",
+    "url": "https://github.com/Displayr/htmlwidgets",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "plotly"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "htmlwidgets",
+    "url": "https://github.com/Displayr/htmlwidgets",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "plotly"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "htmlwidgets",
+    "url": "https://github.com/Displayr/htmlwidgets",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "plotly"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "htmlwidgets",
+    "url": "https://github.com/Displayr/htmlwidgets",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "plotly"],
+    "from": "flipAPI"
   },
   {
     "package": "htmlwidgets",
@@ -41758,6 +42815,24 @@
   {
     "package": "parcoords",
     "url": "https://github.com/Displayr/parcoords",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "parcoords",
+    "url": "https://github.com/Displayr/parcoords",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "parcoords",
+    "url": "https://github.com/Displayr/parcoords",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "parcoords",
+    "url": "https://github.com/Displayr/parcoords",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
   },
@@ -42420,6 +43495,30 @@
     "url": "https://github.com/Displayr/parcoords",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "plotly",
+    "url": "https://github.com/Displayr/plotly",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "plotly",
+    "url": "https://github.com/Displayr/plotly",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "plotly",
+    "url": "https://github.com/Displayr/plotly",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "plotly",
+    "url": "https://github.com/Displayr/plotly",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
   },
   {
     "package": "plotly",
@@ -43498,6 +44597,27 @@
   {
     "package": "rgdal",
     "url": "https://github.com/cran/rgdal",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "branch": "1.5-12",
+    "from": "flipAPI"
+  },
+  {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "branch": "1.5-12",
+    "from": "flipAPI"
+  },
+  {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "branch": "1.5-12",
+    "from": "flipAPI"
+  },
+  {
+    "package": "rgdal",
+    "url": "https://github.com/cran/rgdal",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
     "branch": "1.5-12",
     "from": "flipAnalysisOfVariance"
@@ -44275,6 +45395,24 @@
   {
     "package": "rhtmlDonut",
     "url": "https://github.com/Displayr/rhtmlDonut",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlDonut",
+    "url": "https://github.com/Displayr/rhtmlDonut",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlDonut",
+    "url": "https://github.com/Displayr/rhtmlDonut",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlDonut",
+    "url": "https://github.com/Displayr/rhtmlDonut",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
   },
@@ -44937,6 +46075,156 @@
     "url": "https://github.com/Displayr/rhtmlDonut",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipChartBasics", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipChartBasics", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipChartBasics", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipChartBasics", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipTables", "verbs", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlHeatmap",
+    "url": "https://github.com/Displayr/rhtmlHeatmap",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "verbs", "flipStatistics"],
+    "from": "flipAPI"
   },
   {
     "package": "rhtmlHeatmap",
@@ -47209,6 +48497,24 @@
   {
     "package": "rhtmlLabeledScatter",
     "url": "https://github.com/Displayr/rhtmlLabeledScatter",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlLabeledScatter",
+    "url": "https://github.com/Displayr/rhtmlLabeledScatter",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlLabeledScatter",
+    "url": "https://github.com/Displayr/rhtmlLabeledScatter",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlLabeledScatter",
+    "url": "https://github.com/Displayr/rhtmlLabeledScatter",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
   },
@@ -47871,6 +49177,12 @@
     "url": "https://github.com/Displayr/rhtmlLabeledScatter",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "rhtmlMetro",
+    "url": "https://github.com/Displayr/rhtmlMetro",
+    "via": ["flipAPI", "flipTransformations", "flipFormat"],
+    "from": "flipAPI"
   },
   {
     "package": "rhtmlMetro",
@@ -48283,6 +49595,24 @@
   {
     "package": "rhtmlPalmTrees",
     "url": "https://github.com/Displayr/rhtmlPalmTrees",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlPalmTrees",
+    "url": "https://github.com/Displayr/rhtmlPalmTrees",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlPalmTrees",
+    "url": "https://github.com/Displayr/rhtmlPalmTrees",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlPalmTrees",
+    "url": "https://github.com/Displayr/rhtmlPalmTrees",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
   },
@@ -48949,6 +50279,24 @@
   {
     "package": "rhtmlPictographs",
     "url": "https://github.com/Displayr/rhtmlPictographs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlPictographs",
+    "url": "https://github.com/Displayr/rhtmlPictographs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlPictographs",
+    "url": "https://github.com/Displayr/rhtmlPictographs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "rhtmlPictographs",
+    "url": "https://github.com/Displayr/rhtmlPictographs",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
   },
@@ -49615,6 +50963,24 @@
   {
     "package": "streamgraph",
     "url": "https://github.com/hrbrmstr/streamgraph",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "streamgraph",
+    "url": "https://github.com/hrbrmstr/streamgraph",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "streamgraph",
+    "url": "https://github.com/hrbrmstr/streamgraph",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "streamgraph",
+    "url": "https://github.com/hrbrmstr/streamgraph",
     "via": ["flipAnalysisOfVariance", "flipData", "flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
   },
@@ -50277,6 +51643,13 @@
     "url": "https://github.com/hrbrmstr/streamgraph",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "survey",
+    "url": "https://github.com/cran/survey",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression"],
+    "branch": "4.0",
+    "from": "flipAPI"
   },
   {
     "package": "survey",
@@ -50438,6 +51811,30 @@
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression"],
     "branch": "4.0",
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "thematic",
+    "url": "https://github.com/rstudio/thematic",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "plotly"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "thematic",
+    "url": "https://github.com/rstudio/thematic",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "plotly"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "thematic",
+    "url": "https://github.com/rstudio/thematic",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "plotly"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "thematic",
+    "url": "https://github.com/rstudio/thematic",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "plotly"],
+    "from": "flipAPI"
   },
   {
     "package": "thematic",
@@ -51512,6 +52909,132 @@
     "url": "https://github.com/rstudio/thematic",
     "via": ["flipAnalysisOfVariance", "verbs", "flipStatistics", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "plotly"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipChartBasics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipChartBasics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipChartBasics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipRegression"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStatistics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipChartBasics"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipData"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipStandardCharts"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart", "flipTables"],
+    "from": "flipAPI"
+  },
+  {
+    "package": "verbs",
+    "url": "https://github.com/Displayr/verbs",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests", "flipChart"],
+    "from": "flipAPI"
   },
   {
     "package": "verbs",
@@ -53192,6 +54715,12 @@
     "url": "https://github.com/Displayr/verbs",
     "via": ["flipAnalysisOfVariance"],
     "from": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "visualTest",
+    "url": "https://github.com/MangoTheCat/visualTest",
+    "via": ["flipAPI", "flipTransformations", "flipFormat", "flipChartTests"],
+    "from": "flipAPI"
   },
   {
     "package": "visualTest",
