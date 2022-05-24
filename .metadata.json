@@ -1,0 +1,178 @@
+[
+  {
+    "package": "cleanNLP",
+    "oncran": false
+  },
+  {
+    "package": "dygraphs",
+    "oncran": false
+  },
+  {
+    "package": "flipAnalysisOfVariance"
+  },
+  {
+    "package": "flipAPI"
+  },
+  {
+    "package": "flipCHAID"
+  },
+  {
+    "package": "flipChart"
+  },
+  {
+    "package": "flipChartBasics"
+  },
+  {
+    "package": "flipChartTests"
+  },
+  {
+    "package": "flipChartTests2"
+  },
+  {
+    "package": "flipChartTest3"
+  },
+  {
+    "package": "flipChartTest4"
+  },
+  {
+    "package": "flipChoice"
+  },
+  {
+    "package": "flipChoiceTests"
+  },
+  {
+    "package": "flipData"
+  },
+  {
+    "package": "flipDevTools"
+  },
+  {
+    "package": "flipDimensionReduction"
+  },
+  {
+    "package": "flipExampleData"
+  },
+  {
+    "package": "flipFlip"
+  },
+  {
+    "package": "flipFormat"
+  },
+  {
+    "package": "flipGeoData"
+  },
+  {
+    "package": "flipImputation"
+  },
+  {
+    "package": "flipMaxDiff"
+  },
+  {
+    "package": "flipMultivariates"
+  },
+  {
+    "package": "flipPictographs"
+  },
+  {
+    "package": "flipPlots"
+  },
+  {
+    "package": "flipQualtrics"
+  },
+  {
+    "package": "flipRegression"
+  },
+  {
+    "package": "flipRegressionTests"
+  },
+  {
+    "package": "flipRevenueMetrics"
+  },
+  {
+    "package": "flipStandardCharts"
+  },
+  {
+    "package": "flipStartup"
+  },
+  {
+    "package": "flipStartup"
+  },
+  {
+    "package": "flipStatistics"
+  },
+  {
+    "package": "flipTables"
+  },
+  {
+    "package": "flipTextAnalysis"
+  },
+  {
+    "package": "flipTime"
+  },
+  {
+    "package": "flipTransformations"
+  },
+  {
+    "package": "flipTrees"
+  },
+  {
+    "package": "flipTURF"
+  },
+  {
+    "package": "flipU"
+  },
+  {
+    "package": "formattable",
+    "oncran": false
+  },
+  {
+    "package": "htmlwidgets",
+    "oncran": false
+  },
+  {
+    "package": "plotly",
+    "oncran": false
+  },
+  {
+    "package": "rhtmlDendrogram"
+  },
+  {
+    "package": "rhtmlDonut"
+  },
+  {
+    "package": "rhtmlEchoLifecycle"
+  },
+  {
+    "package": "rhtmlHeatmap"
+  },
+  {
+    "package": "rhtmlLabeledScatter"
+  },
+  {
+    "package": "rhtmlMetro"
+  },
+  {
+    "package": "rhtmlMoonplot"
+  },
+  {
+    "package": "rhtmlPalmTrees"
+  },
+  {
+    "package": "rhtmlPictographs"
+  },
+  {
+    "package": "rhtmlSankeyTree"
+  },
+  {
+    "package": "rhtmlSlowWidget"
+  },
+  {
+    "package": "rhtmlStatefulWidget"
+  },
+  {
+    "package": "rhtmlTemplate"
+  },
+  {
+    "package": "verbs"
+  }
+]

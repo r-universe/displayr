@@ -1,5 +1,285 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/displayr/universe
 	shallow = true
 	branch = HEAD
+[submodule "cleanNLP"]
+	path = cleanNLP
+	url = https://github.com/Displayr/cleanNLP
+	shallow = true
+	registered = true
+[submodule "dygraphs"]
+	path = dygraphs
+	url = https://github.com/Displayr/dygraphs
+	shallow = true
+	registered = true
+[submodule "flipAnalysisOfVariance"]
+	path = flipAnalysisOfVariance
+	url = https://github.com/Displayr/flipAnalysisOfVariance
+	shallow = true
+	registered = true
+[submodule "flipAPI"]
+	path = flipAPI
+	url = https://github.com/Displayr/flipAPI
+	shallow = true
+	registered = true
+[submodule "flipCHAID"]
+	path = flipCHAID
+	url = https://github.com/Displayr/flipCHAID
+	shallow = true
+	registered = true
+[submodule "flipChart"]
+	path = flipChart
+	url = https://github.com/Displayr/flipChart
+	shallow = true
+	registered = true
+[submodule "flipChartBasics"]
+	path = flipChartBasics
+	url = https://github.com/Displayr/flipChartBasics
+	shallow = true
+	registered = true
+[submodule "flipChartTests"]
+	path = flipChartTests
+	url = https://github.com/Displayr/flipChartTests
+	shallow = true
+	registered = true
+[submodule "flipChartTests2"]
+	path = flipChartTests2
+	url = https://github.com/Displayr/flipChartTests2
+	shallow = true
+	registered = true
+[submodule "flipChartTest3"]
+	path = flipChartTest3
+	url = https://github.com/Displayr/flipChartTests3
+	shallow = true
+	registered = true
+[submodule "flipChartTest4"]
+	path = flipChartTest4
+	url = https://github.com/Displayr/flipChartTests4
+	shallow = true
+	registered = true
+[submodule "flipChoice"]
+	path = flipChoice
+	url = https://github.com/Displayr/flipChoice
+	shallow = true
+	registered = true
+[submodule "flipChoiceTests"]
+	path = flipChoiceTests
+	url = https://github.com/Displayr/flipChoiceTests
+	shallow = true
+	registered = true
+[submodule "flipData"]
+	path = flipData
+	url = https://github.com/Displayr/flipData
+	shallow = true
+	registered = true
+[submodule "flipDevTools"]
+	path = flipDevTools
+	url = https://github.com/Displayr/flipDevTools
+	shallow = true
+	registered = true
+[submodule "flipDimensionReduction"]
+	path = flipDimensionReduction
+	url = https://github.com/Displayr/flipDimensionReduction
+	shallow = true
+	registered = true
+[submodule "flipExampleData"]
+	path = flipExampleData
+	url = https://github.com/Displayr/flipExampleData
+	shallow = true
+	registered = true
+[submodule "flipFlip"]
+	path = flipFlip
+	url = https://github.com/Displayr/flipFlip
+	shallow = true
+	registered = true
+[submodule "flipFormat"]
+	path = flipFormat
+	url = https://github.com/Displayr/flipFormat
+	shallow = true
+	registered = true
+[submodule "flipGeoData"]
+	path = flipGeoData
+	url = https://github.com/Displayr/flipGeoData
+	shallow = true
+	registered = true
+[submodule "flipImputation"]
+	path = flipImputation
+	url = https://github.com/Displayr/flipImputation
+	shallow = true
+	registered = true
+[submodule "flipMaxDiff"]
+	path = flipMaxDiff
+	url = https://github.com/Displayr/flipMaxDiff
+	shallow = true
+	registered = true
+[submodule "flipMultivariates"]
+	path = flipMultivariates
+	url = https://github.com/Displayr/flipMultivariates
+	shallow = true
+	registered = true
+[submodule "flipPictographs"]
+	path = flipPictographs
+	url = https://github.com/Displayr/flipPictographs
+	shallow = true
+	registered = true
+[submodule "flipPlots"]
+	path = flipPlots
+	url = https://github.com/Displayr/flipPlots
+	shallow = true
+	registered = true
+[submodule "flipQualtrics"]
+	path = flipQualtrics
+	url = https://github.com/Displayr/flipQualtrics
+	shallow = true
+	registered = true
+[submodule "flipRegression"]
+	path = flipRegression
+	url = https://github.com/Displayr/flipRegression
+	shallow = true
+	registered = true
+[submodule "flipRegressionTests"]
+	path = flipRegressionTests
+	url = https://github.com/Displayr/flipRegressionTests
+	shallow = true
+	registered = true
+[submodule "flipRevenueMetrics"]
+	path = flipRevenueMetrics
+	url = https://github.com/Displayr/flipRevenueMetrics
+	shallow = true
+	registered = true
+[submodule "flipStandardCharts"]
+	path = flipStandardCharts
+	url = https://github.com/Displayr/flipStandardCharts
+	shallow = true
+	registered = true
+[submodule "flipStartup"]
+	path = flipStartup
+	url = https://github.com/Displayr/flipStartup
+	shallow = true
+	registered = true
+[submodule "flipStatistics"]
+	path = flipStatistics
+	url = https://github.com/Displayr/flipStatistics
+	shallow = true
+	registered = true
+[submodule "flipTables"]
+	path = flipTables
+	url = https://github.com/Displayr/flipTables
+	shallow = true
+	registered = true
+[submodule "flipTextAnalysis"]
+	path = flipTextAnalysis
+	url = https://github.com/Displayr/flipTextAnalysis
+	shallow = true
+	registered = true
+[submodule "flipTime"]
+	path = flipTime
+	url = https://github.com/Displayr/flipTime
+	shallow = true
+	registered = true
+[submodule "flipTransformations"]
+	path = flipTransformations
+	url = https://github.com/Displayr/flipTransformations
+	shallow = true
+	registered = true
+[submodule "flipTrees"]
+	path = flipTrees
+	url = https://github.com/Displayr/flipTrees
+	shallow = true
+	registered = true
+[submodule "flipTURF"]
+	path = flipTURF
+	url = https://github.com/Displayr/flipTURF
+	shallow = true
+	registered = true
+[submodule "flipU"]
+	path = flipU
+	url = https://github.com/Displayr/flipU
+	shallow = true
+	registered = true
+[submodule "formattable"]
+	path = formattable
+	url = https://github.com/Displayr/formattable
+	shallow = true
+	registered = true
+[submodule "htmlwidgets"]
+	path = htmlwidgets
+	url = https://github.com/Displayr/htmlwidgets
+	shallow = true
+	registered = true
+[submodule "plotly"]
+	path = plotly
+	url = https://github.com/Displayr/plotly
+	shallow = true
+	registered = true
+[submodule "rhtmlDendrogram"]
+	path = rhtmlDendrogram
+	url = https://github.com/Displayr/rhtmlDendrogram
+	shallow = true
+	registered = true
+[submodule "rhtmlDonut"]
+	path = rhtmlDonut
+	url = https://github.com/Displayr/rhtmlDonut
+	shallow = true
+	registered = true
+[submodule "rhtmlEchoLifecycle"]
+	path = rhtmlEchoLifecycle
+	url = https://github.com/Displayr/rhtmlEchoLifecycle
+	shallow = true
+	registered = true
+[submodule "rhtmlHeatmap"]
+	path = rhtmlHeatmap
+	url = https://github.com/Displayr/rhtmlHeatmap
+	shallow = true
+	registered = true
+[submodule "rhtmlLabeledScatter"]
+	path = rhtmlLabeledScatter
+	url = https://github.com/Displayr/rhtmlLabeledScatter
+	shallow = true
+	registered = true
+[submodule "rhtmlMetro"]
+	path = rhtmlMetro
+	url = https://github.com/Displayr/rhtmlMetro
+	shallow = true
+	registered = true
+[submodule "rhtmlMoonplot"]
+	path = rhtmlMoonplot
+	url = https://github.com/Displayr/rhtmlMoonplot
+	shallow = true
+	registered = true
+[submodule "rhtmlPalmTrees"]
+	path = rhtmlPalmTrees
+	url = https://github.com/Displayr/rhtmlPalmTrees
+	shallow = true
+	registered = true
+[submodule "rhtmlPictographs"]
+	path = rhtmlPictographs
+	url = https://github.com/Displayr/rhtmlPictographs
+	shallow = true
+	registered = true
+[submodule "rhtmlSankeyTree"]
+	path = rhtmlSankeyTree
+	url = https://github.com/Displayr/rhtmlSankeyTree
+	shallow = true
+	registered = true
+[submodule "rhtmlSlowWidget"]
+	path = rhtmlSlowWidget
+	url = https://github.com/Displayr/rhtmlSlowWidget
+	shallow = true
+	registered = true
+[submodule "rhtmlStatefulWidget"]
+	path = rhtmlStatefulWidget
+	url = https://github.com/Displayr/rhtmlStatefulWidget
+	shallow = true
+	registered = true
+[submodule "rhtmlTemplate"]
+	path = rhtmlTemplate
+	url = https://github.com/Displayr/rhtmlTemplate
+	shallow = true
+	registered = true
+[submodule "verbs"]
+	path = verbs
+	url = https://github.com/Displayr/verbs
+	shallow = true
+	registered = true
