@@ -14,9 +14,6 @@
     "package": "flipAPI"
   },
   {
-    "package": "flipCHAID"
-  },
-  {
     "package": "flipChart"
   },
   {
@@ -29,22 +26,13 @@
     "package": "flipChartTests2"
   },
   {
-    "package": "flipChartTest3"
+    "package": "flipChartTests3"
   },
   {
-    "package": "flipChartTest4"
-  },
-  {
-    "package": "flipChoice"
-  },
-  {
-    "package": "flipChoiceTests"
+    "package": "flipChartTests4"
   },
   {
     "package": "flipData"
-  },
-  {
-    "package": "flipDevTools"
   },
   {
     "package": "flipDimensionReduction"
@@ -65,9 +53,6 @@
     "package": "flipImputation"
   },
   {
-    "package": "flipMaxDiff"
-  },
-  {
     "package": "flipMultivariates"
   },
   {
@@ -75,9 +60,6 @@
   },
   {
     "package": "flipPlots"
-  },
-  {
-    "package": "flipQualtrics"
   },
   {
     "package": "flipRegression"
@@ -95,16 +77,10 @@
     "package": "flipStartup"
   },
   {
-    "package": "flipStartup"
-  },
-  {
     "package": "flipStatistics"
   },
   {
     "package": "flipTables"
-  },
-  {
-    "package": "flipTextAnalysis"
   },
   {
     "package": "flipTime"
@@ -114,9 +90,6 @@
   },
   {
     "package": "flipTrees"
-  },
-  {
-    "package": "flipTURF"
   },
   {
     "package": "flipU"
@@ -152,7 +125,7 @@
     "package": "rhtmlMetro"
   },
   {
-    "package": "rhtmlMoonplot"
+    "package": "rhtmlMoonPlot"
   },
   {
     "package": "rhtmlPalmTrees"
@@ -167,7 +140,7 @@
     "package": "rhtmlSlowWidget"
   },
   {
-    "package": "rhtmlStatefulWidget"
+    "package": "statefulwidget"
   },
   {
     "package": "rhtmlTemplate"

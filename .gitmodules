@@ -23,11 +23,6 @@
 	url = https://github.com/Displayr/flipAPI
 	shallow = true
 	registered = true
-[submodule "flipCHAID"]
-	path = flipCHAID
-	url = https://github.com/Displayr/flipCHAID
-	shallow = true
-	registered = true
 [submodule "flipChart"]
 	path = flipChart
 	url = https://github.com/Displayr/flipChart
@@ -48,34 +43,19 @@
 	url = https://github.com/Displayr/flipChartTests2
 	shallow = true
 	registered = true
-[submodule "flipChartTest3"]
-	path = flipChartTest3
+[submodule "flipChartTests3"]
+	path = flipChartTests3
 	url = https://github.com/Displayr/flipChartTests3
 	shallow = true
 	registered = true
-[submodule "flipChartTest4"]
-	path = flipChartTest4
+[submodule "flipChartTests4"]
+	path = flipChartTests4
 	url = https://github.com/Displayr/flipChartTests4
-	shallow = true
-	registered = true
-[submodule "flipChoice"]
-	path = flipChoice
-	url = https://github.com/Displayr/flipChoice
-	shallow = true
-	registered = true
-[submodule "flipChoiceTests"]
-	path = flipChoiceTests
-	url = https://github.com/Displayr/flipChoiceTests
 	shallow = true
 	registered = true
 [submodule "flipData"]
 	path = flipData
 	url = https://github.com/Displayr/flipData
-	shallow = true
-	registered = true
-[submodule "flipDevTools"]
-	path = flipDevTools
-	url = https://github.com/Displayr/flipDevTools
 	shallow = true
 	registered = true
 [submodule "flipDimensionReduction"]
@@ -108,11 +88,6 @@
 	url = https://github.com/Displayr/flipImputation
 	shallow = true
 	registered = true
-[submodule "flipMaxDiff"]
-	path = flipMaxDiff
-	url = https://github.com/Displayr/flipMaxDiff
-	shallow = true
-	registered = true
 [submodule "flipMultivariates"]
 	path = flipMultivariates
 	url = https://github.com/Displayr/flipMultivariates
@@ -126,11 +101,6 @@
 [submodule "flipPlots"]
 	path = flipPlots
 	url = https://github.com/Displayr/flipPlots
-	shallow = true
-	registered = true
-[submodule "flipQualtrics"]
-	path = flipQualtrics
-	url = https://github.com/Displayr/flipQualtrics
 	shallow = true
 	registered = true
 [submodule "flipRegression"]
@@ -168,11 +138,6 @@
 	url = https://github.com/Displayr/flipTables
 	shallow = true
 	registered = true
-[submodule "flipTextAnalysis"]
-	path = flipTextAnalysis
-	url = https://github.com/Displayr/flipTextAnalysis
-	shallow = true
-	registered = true
 [submodule "flipTime"]
 	path = flipTime
 	url = https://github.com/Displayr/flipTime
@@ -186,11 +151,6 @@
 [submodule "flipTrees"]
 	path = flipTrees
 	url = https://github.com/Displayr/flipTrees
-	shallow = true
-	registered = true
-[submodule "flipTURF"]
-	path = flipTURF
-	url = https://github.com/Displayr/flipTURF
 	shallow = true
 	registered = true
 [submodule "flipU"]
@@ -243,9 +203,9 @@
 	url = https://github.com/Displayr/rhtmlMetro
 	shallow = true
 	registered = true
-[submodule "rhtmlMoonplot"]
-	path = rhtmlMoonplot
-	url = https://github.com/Displayr/rhtmlMoonplot
+[submodule "rhtmlMoonPlot"]
+	path = rhtmlMoonPlot
+	url = https://github.com/Displayr/rhtmlMoonPlot
 	shallow = true
 	registered = true
 [submodule "rhtmlPalmTrees"]
@@ -268,8 +228,8 @@
 	url = https://github.com/Displayr/rhtmlSlowWidget
 	shallow = true
 	registered = true
-[submodule "rhtmlStatefulWidget"]
-	path = rhtmlStatefulWidget
+[submodule "statefulwidget"]
+	path = statefulwidget
 	url = https://github.com/Displayr/rhtmlStatefulWidget
 	shallow = true
 	registered = true
@@ -319,11 +279,6 @@
 	url = https://github.com/cran/rgdal
 	shallow = true
 	branch = 1.5-12
-	registered = false
-[submodule "rhtmlMoonPlot"]
-	path = rhtmlMoonPlot
-	url = https://github.com/Displayr/rhtmlMoonPlot
-	shallow = true
 	registered = false
 [submodule "streamgraph"]
 	path = streamgraph
