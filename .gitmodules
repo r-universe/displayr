@@ -258,6 +258,7 @@
 	path = chromote
 	url = https://github.com/rstudio/chromote
 	shallow = true
+	branch = 5b85d76
 	registered = false
 [submodule "d3vennR"]
 	path = d3vennR
